@@ -23,6 +23,16 @@ body{
   padding-right: 20px;
 }
 
+.title{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.title h3{
+  margin-right: 10px;
+}
+
 .modal{
   margin-top: 20px;
   padding: 20px;
